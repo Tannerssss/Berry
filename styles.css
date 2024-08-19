@@ -1,0 +1,15 @@
+#new-feature {
+    background-color: #f4f4f4;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+#new-feature h2 {
+    color: #333;
+    font-size: 24px;
+}
+
+#new-feature p {
+    color: #666;
+    font-size: 18px;
+}
